@@ -8,7 +8,7 @@
   "dependencies": {
     "bash-color": "0.0.4",
     "cheerio": "0.20.0",
-    "chokidar": "1.5.0",
+    "chokidar": "1.7.0",
     "cp": "0.2.0",
     "cpr": "1.1.1",
     "crc": "3.4.0",
@@ -31,9 +31,9 @@
     "gitbook-plugin-sharing": "1.0.2",
     "gitbook-plugin-theme-default": "1.0.7",
     "github-slugid": "1.0.1",
-    "graceful-fs": "4.1.4",
+    "graceful-fs": "4.1.11",
     "i18n-t": "1.0.1",
-    "ignore": "3.1.2",
+    "ignore": "3.3.7",
     "immutable": "^3.8.1",
     "is": "^3.1.0",
     "js-yaml": "^3.6.1",
@@ -58,7 +58,7 @@
     "send": "0.13.2",
     "spawn-cmd": "0.0.2",
     "tiny-lr": "0.2.1",
-    "tmp": "0.0.28",
+    "tmp": "0.0.33",
     "urijs": "1.18.0"
   },
   "devDependencies": {
