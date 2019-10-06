@@ -73,7 +73,7 @@
   "scripts": {
     "lint": "eslint .",
     "test": "./node_modules/.bin/mocha ./testing/setup.js \"./lib/**/*/__tests__/*.js\" --bail --reporter=list --timeout=10000",
-    "update": "npx np --no-publish --no-yarn --yolo"
+    "update": "npx np --no-publish --no-yarn --yolo --any-branch"
   },
   "repository": {
     "type": "git",
