@@ -67,11 +67,13 @@
   "devDependencies": {
     "eslint": "2.10.2",
     "expect": "^1.20.1",
-    "mocha": "^2.4.5"
+    "mocha": "^2.4.5",
+    "np": "^5.1.0"
   },
   "scripts": {
     "lint": "eslint .",
-    "test": "./node_modules/.bin/mocha ./testing/setup.js \"./lib/**/*/__tests__/*.js\" --bail --reporter=list --timeout=10000"
+    "test": "./node_modules/.bin/mocha ./testing/setup.js \"./lib/**/*/__tests__/*.js\" --bail --reporter=list --timeout=10000",
+    "update": "npx np --no-publish --no-yarn --yolo"
   },
   "repository": {
     "type": "git",
