@@ -1,5 +1,5 @@
 {
-  "name": "gitbook",
+  "name": "@tepez/gitbook",
   "version": "3.2.3",
   "homepage": "https://www.gitbook.com",
   "description": "Library and cmd utility to generate GitBooks",
